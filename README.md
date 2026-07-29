@@ -50,9 +50,22 @@ I am a developer focused on building efficient Python applications and mastering
 
 ### 📌 Featured Projects
 
-| 🎮 Othello | 🧩 LeetCode Solutions |
-| :--- | :--- |
-| A fully functional local build of the classic Othello board game, complete with turn logic and validation.<br><br>[**View Repository ➔**](https://github.com/noahfinkelstein/othello) | Optimized Python solutions for algorithmic problems, covering anagram grouping, two-sum variations, and container water areas.<br><br>[**View Repository ➔**](https://github.com/noahfinkelstein/leetcode-solutions) |
+<p align="center">
+  <a href="https://github.com/noahfinkelstein/othello">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noahfinkelstein&repo=othello&theme=tokyonight&hide_border=true" alt="Othello Repo" width="48%" />
+  </a>
+  <a href="https://github.com/noahfinkelstein/leetcode-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noahfinkelstein&repo=leetcode-solutions&theme=tokyonight&hide_border=true" alt="LeetCode Solutions Repo" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/noahfinkelstein/[NEW_REPO_NAME_1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noahfinkelstein&repo=[NEW_REPO_NAME_1]&theme=tokyonight&hide_border=true" alt="New Repo 1" width="48%" />
+  </a>
+  <a href="https://github.com/noahfinkelstein/[NEW_REPO_NAME_2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noahfinkelstein&repo=[NEW_REPO_NAME_2]&theme=tokyonight&hide_border=true" alt="New Repo 2" width="48%" />
+  </a>
+</p>
 
 ---
 
