@@ -1,11 +1,11 @@
 # Hi there, I'm Noah 👋
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Your Current Project or Role]**
-- 🌱 I’m currently learning **[Languages, Frameworks, or Concepts]**
-- 👯 I’m looking to collaborate on **[Open Source Projects / Ideas]**
-- 💬 Ask me about **Python, Data Structures, Algorithms, or [Other Topics]**
-- ⚡ Fun fact: **[Insert a fun fact or personal interest here]**
+- 🔭 I’m currently building out Python projects, including a fully playable local **Othello board game**.
+- 🌱 I’m actively refining my skills in **Data Structures and Algorithms**, tackling complex optimizations for linked lists, arrays, and sliding windows.
+- 👯 I’m looking to collaborate on **Python-based open-source projects or algorithmic problem-solving challenges**.
+- 💬 Ask me about **Python, frequency counting, Sudoku validation algorithms, or game logic!**
+- ⚡ Fun fact: I spend a good portion of my free time figuring out the absolute most efficient time and space complexities for code logic.
 
 ---
 
@@ -13,10 +13,7 @@
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Algorithms-6058F9?style=for-the-badge&logo=leetcode&logoColor=white" alt="Algorithms" />
   
   <!-- Tools & Frameworks -->
   <br/>
@@ -30,12 +27,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noahfinkelstein&show_icons=true&theme=radial&hide_border=true" alt="Noah's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahfinkelstein&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noahfinkelstein&show_icons=true&theme=tokyonight&hide_border=true" alt="Noah's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahfinkelstein&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noahfinkelstein&theme=radial&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noahfinkelstein&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -43,20 +40,17 @@
 ### 📌 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🚀 **[Project 1 Name](https://github.com/noahfinkelstein/repo-1)** | Short description of what this project does and why it's cool. | `Python` `Flask` `SQL` |
-| ⚡ **[Project 2 Name](https://github.com/noahfinkelstein/repo-2)** | Short description of key features or problem solved. | `Algorithms` `Python` |
+| 🎮 **[Othello](https://github.com/noahfinkelstein/othello)** | A fully functional local build of the classic Othello board game, complete with turn logic and validation. | `Python` |
+| 🧩 **[LeetCode Solutions](https://github.com/noahfinkelstein/leetcode-solutions)** | Optimized solutions for various algorithmic problems, covering anagram grouping, two-sum variations, and container water areas. | `Python` `Algorithms` |
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/noahfinkelstein" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/noahfinkelstein?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositories-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Repos" />
   </a>
 </p>
