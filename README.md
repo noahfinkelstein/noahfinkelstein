@@ -7,9 +7,7 @@
 </p>
 
 ---
-
 Use this link to schedule a meeting with me: https://calendly.com/noah_finkelstein-brown/30min
-
 ---
 
 ### About Me
