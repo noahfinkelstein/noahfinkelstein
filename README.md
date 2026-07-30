@@ -60,11 +60,8 @@ Use this link to schedule a meeting with me: https://calendly.com/noah_finkelste
 ### Let's Connect
 
 <p align="center">
-  <a href="https://github.com/noahfinkelstein" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://github.com/noahfinkelstein?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Repos-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+    <img src="https://img.shields.io/badge/Explore_Repos-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="My Github Repositories" />
   </a>
   <a href="https://www.linkedin.com/in/noah-finkelstein" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
