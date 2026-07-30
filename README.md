@@ -77,6 +77,25 @@ Use this link to schedule a meeting with me: https://calendly.com/noah_finkelste
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/noahfinkelstein?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_My_Repos-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Repos" />
+    <img src="https://img.shields.io/badge/Explore_Repos-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
   </a>
+  <a href="https://www.linkedin.com/in/noah-finkelstein" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/n0ahfinkelstein" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://huggingface.co/noahfinkelstein" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face" />
+  </a>
+  <a href="https://calendly.com/noah_finkelstein-brown/30min" target="_blank">
+    <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
+  </a>
+  <a href="mailto:noah_finkelstein@brown.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  🎓 <b>Brown University</b> &nbsp;|&nbsp; 📍 <b>Boston, MA</b>
 </p>
