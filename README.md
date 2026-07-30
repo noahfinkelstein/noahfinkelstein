@@ -46,27 +46,14 @@ Use this link to schedule a meeting with me: https://calendly.com/noah_finkelste
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
+---
+
 ### Projects
 
 * **Brunonia 3D** — 1:1-scale map of Brown’s campus built with Python, C++, Unity, Neural Radiance Fields (NeRFs), and Gaussian Splatting.
 * **BetaGo** — 9x9 Go-playing agent featuring an enhanced MCTS/Iterative Deepening algorithm paired with a CNN-derived heuristic (Python & Google Colab).
 * **Distributed KV Store** — Scalable bespoke multithreaded shard controller featuring a sharding-aware server and shard client.
 * **Campus Clash** — Pre-launch iOS app where college students compete against classmates in puzzle minigames (Swift, Firebase).
-
-### 🏆 GitHub Trophies & Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noahfinkelstein&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noahfinkelstein&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Noah's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahfinkelstein&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noahfinkelstein&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
