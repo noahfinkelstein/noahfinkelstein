@@ -8,14 +8,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I am a developer focused on building efficient Python applications and mastering complex algorithmic challenges. Whether it's optimizing time/space complexity or building functional games from scratch, I love dissecting logic puzzles.
+Hi there! My name is Noah Finkelstein, and I'm a rising junior at Brown concentrating in Mathematics-Computer Science and Physics. My big secret: I like math :)
+One of my main goals in life is to learn as much as possible about every subject, so I'm always studying something new! I love building stuff (mostly software, but I've made a few Arduino/Raspberry Pi projects as well), and I try to surround myself with motivated, creative people. I really enjoy collaborating with others to do cool things, and I want to do as much as I can to change the world for the better. In my free time, I like playing chess (I've done tournaments in the past and I started a chess league in high school lol), hiking in New Hampshire, reading, watching old films, and spending time with friends and family. Thanks for visiting my profile, and please don't hesitate to reach out if you'd like to chat! 
 
-- 🔭 **Currently building:** A fully playable local **Othello board game** with complete turn logic.
-- 🌱 **Currently refining:** Advanced **Data Structures and Algorithms** (sliding windows, linked lists, array optimization).
-- 💬 **Ask me about:** Python, frequency counting, Sudoku validation, and game state logic!
-- ⚡ **Fun fact:** I spend my free time hunting down the most optimal $O(1)$ space complexities for code logic.
+- Currently building: CourseTrees!! It's an EdTech platform that allows students to visualize their school's course catalog, rate courses and professors, create study groups, view advanced course analytics, and interact with a custom AI College Advisor called "CourseTrees Advising Model" (Cam for short).
+- Ask me about: Graph Theory :) Did you know the Knight's Tour Problem can be used for image encryption? One of the coolest math subfields in my opinion!
+- Fun fact: I earned the Massachusetts Seal of Biliteracy in Latin, which will come in handy if I'm ever hanging out with some Ancient Romans.
 
 ---
 
