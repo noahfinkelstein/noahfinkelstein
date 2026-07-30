@@ -14,7 +14,7 @@ Use this link to schedule a meeting with me: https://calendly.com/noah_finkelste
 
 ### About Me
 
-Hi there! My name is Noah Finkelstein, and I'm a rising junior at Brown concentrating in Mathematics-Computer Science and Physics. My big secret (don't tell anyone!): I like math :)
+Hi there! My name is Noah Finkelstein, and I'm a rising junior at Brown concentrating in Mathematics-Computer Science and Physics. My big secret (don't tell anyone): I like math :)
 One of my main goals in life is to learn as much as possible about every subject, so I'm always studying something new! I love building stuff (mostly software, but I've made a few Arduino/Raspberry Pi projects as well), and I try to surround myself with motivated, creative people. I really enjoy collaborating with others to do cool things, and I want to do as much as I can to change the world for the better. In my free time, I like playing chess (I've done tournaments in the past and I started a chess league in high school lol), hiking in New Hampshire, reading, watching old films, and spending time with friends and family. Thanks for visiting my profile, and please don't hesitate to reach out if you'd like to chat! 
 
 - Currently building: CourseTrees!! It's an EdTech platform that allows students to visualize their school's course catalog, rate courses and professors, create study groups, view advanced course analytics, and interact with a custom AI College Advisor called "CourseTrees Advising Model" (Cam for short).
